@@ -1,0 +1,18 @@
+Privacy Policy for Vinci
+
+Last Updated: March 16, 2026
+
+1. Data Collection
+Vinci is designed to scan business cards and extract contact information. All image processing and text extraction (OCR) are performed locally on your device using Apple's Vision framework. We do not upload your photos or contact data to any external servers.
+
+2. Data Usage
+The contact information extracted (names, emails, phone numbers) is used solely to allow you to save contacts to your device. We do not sell, trade, or track this information.
+
+3. Third-Party Services
+Vinci does not use third-party analytics or advertising SDKs.
+
+4. User Consent
+By using the app’s camera to scan a card, you consent to the app processing that image locally for the purpose of data extraction.
+
+5. Contact
+If you have any questions, please contact tommybruggeman1@gmail.com
